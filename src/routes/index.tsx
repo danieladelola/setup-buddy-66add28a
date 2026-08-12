@@ -196,6 +196,12 @@ function Landing() {
           <p className="font-mono text-[0.7rem] uppercase tracking-[0.2em] text-muted-foreground">
             © {new Date().getFullYear()} HSENations · Internal Tool
           </p>
+          <a
+            href="tel:+2348036979392"
+            className="font-mono text-[0.7rem] uppercase tracking-[0.2em] text-muted-foreground transition hover:text-primary"
+          >
+            +234 803 697 9392
+          </a>
           <p className="font-mono text-[0.7rem] uppercase tracking-[0.2em] text-muted-foreground">
             mail.hsenations.com
           </p>
